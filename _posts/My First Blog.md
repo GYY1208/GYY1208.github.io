@@ -7,7 +7,7 @@ title: "My First Post"
 subtitle: Hello World
 data: 2019-1-11
 author: rookie
-header-img: "img/post-bg-rwd.jpg"
+header-img: "img/post-bg-desk.jpg"
 catalog: true
 tags:
   - 生活
