@@ -1,1 +1,9 @@
-hello world
+---
+layout:   post
+title:    我的第一个博客
+subtitle: Hello world!!!
+data:     2019-1-11
+author:   郭莹颖
+tags:     生活
+---
+>这是我的第一篇博客
