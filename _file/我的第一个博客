@@ -1,9 +1,6 @@
 ---
-layout:   post
-title:    我的第一个博客
-subtitle: Hello world!!!
-data:     2019-1-11
-author:   郭莹颖
-catalog:  true
+layout: page
+title: "home"
+description: "我的第一个博客"
+header-img: "img/post-bg-rwd.jpg"
 ---
->这是我的第一篇博客
